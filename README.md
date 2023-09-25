@@ -1,1 +1,1 @@
-# Milk-Quality-535-project-
+This is a course project from Math 535 focusing on complementing soft-margin SVM and stochastic gradient descent to predict milk quality. The dataset is found on Kaggle which contains features including pH, temperature, taste, odor, fat, turbidity, and color and grade as labels. The model is built by using packages like numPy, Pandas, sklearn, and matplotlib.
